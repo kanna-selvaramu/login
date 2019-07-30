@@ -1,0 +1,13 @@
+{
+    "response": {
+        "book": {
+            "title": "The Purple Night",
+            "author": "John Doe",
+            "category": [
+                "thriller",
+                "comedy"
+            ],
+            "price": 400
+        }
+    }
+}
